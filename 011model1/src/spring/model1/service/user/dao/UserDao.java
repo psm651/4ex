@@ -17,7 +17,7 @@ public class UserDao {
 	
 	///Constructor
 	public UserDao() {
-		System.out.println("UserDAO Default Constructor");
+		System.out.println("afdstor");
 	}
 	
 	///Method
